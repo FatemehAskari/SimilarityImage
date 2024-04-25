@@ -1,4 +1,5 @@
 # SimilarityImage
+The similarity comparison of flower images, conducted using keras, opencv, and tensorflow, has been performed.
 
 ## Table of Contents
 
