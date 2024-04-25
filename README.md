@@ -9,6 +9,9 @@
 
 ## Dataset
 
+The dataset consists of 102 images of flowers. Here is an example of one of the images:
+
+![dataset](Assets/dataset.jpg)
 ## Model
 
 ## How to run
