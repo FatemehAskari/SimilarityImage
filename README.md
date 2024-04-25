@@ -22,3 +22,9 @@ The objective of this project is to provide the top 10 most similar images to a 
 2. Run ImageSimlarityFinally (3).ipynb [Notebook](model/ImageSimlarityFinally%20(3).ipynb)
 
 ## Results
+
+Query Image            |  10 similar images
+:-------------------------:|:-------------------------:
+![query1](assets/query1.jpg)  |  ![Result1](assets/result1.jpg)
+![query2](assets/query2.jpg)|![Result2](assets/result2.jpg)
+
